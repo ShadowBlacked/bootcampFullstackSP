@@ -1,6 +1,6 @@
 # ***Repositorio actividades Bootcamp Fullstack***
  
-## ***1. Minireto1***
+## ***01. Minireto 1***
 ### ***Descripción del Minireto 1*** 
 Creación de métodos Java y manejo de repositorio. Todos los desafíos deberán ser generados utilizando el lenguaje de programación Java.
 #### *Apartado 2A*
