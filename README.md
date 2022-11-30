@@ -15,4 +15,4 @@ Creación de métodos Java y manejo de repositorio. Todos los desafíos deberán
 
 ## ***02. Minireto 2***
 ### ***Descripción del Minireto 2*** 
-Crear tarjeta de presentación usando HTML, CSS y si se quiere librerías complementarias como Bootstrap.
+- [x] Crear tarjeta de presentación usando HTML, CSS y si se quiere librerías complementarias como Bootstrap.
