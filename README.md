@@ -12,3 +12,7 @@ Creación de métodos Java y manejo de repositorio. Todos los desafíos deberán
 
 #### *Apartado 2B*
 - [x] Crear un método que tenga como entrada un valor tipo String y una lista de cadena List<String>. El método devuelve un valor de tipo booleano. El método verifica si el valor tipo String está contenido en la lista, si el valor se encuentra dentro de la lista deberá devolver un valor false, de lo contrario retorna un valor true.
+
+## ***02. Minireto 2***
+### ***Descripción del Minireto 2*** 
+Crear tarjeta de presentación usando HTML, CSS y si se quiere librerías complementarias como Bootstrap.
